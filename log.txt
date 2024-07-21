@@ -1,0 +1,11 @@
+10:34:47.168 [main] TRACE com.ComApp - COM :: LEVEL :: ComApp TRACE Message ::
+10:34:47.168 [main] TRACE com.ComApp - COM :: LEVEL :: ComApp TRACE Message ::
+10:34:47.170 [main] TRACE com.journaldev.ComJournalDevApp - COM :: JournalDev :: LEVEL :: ComJournalDevApp TRACE Message ::
+10:34:47.170 [main] TRACE com.journaldev.ComJournalDevApp - COM :: JournalDev :: LEVEL :: ComJournalDevApp TRACE Message ::
+10:34:47.170 [main] TRACE com.journaldev.ComJournalDevApp - COM :: JournalDev :: LEVEL :: ComJournalDevApp TRACE Message ::
+10:34:47.171 [main] ERROR net.NetApp - NET :: LEVEL :: NetApp ERROR Message ::
+10:34:47.171 [main] ERROR net.NetApp - NET :: LEVEL :: NetApp ERROR Message ::
+10:34:47.171 [main] ERROR net.journaldev.NetJournalDevApp - NET :: JournalDev :: LEVEL :: NetJournalDevApp ERROR Message ::
+10:34:47.171 [main] ERROR net.journaldev.NetJournalDevApp - NET :: JournalDev :: LEVEL :: NetJournalDevApp ERROR Message ::
+10:34:47.171 [main] ERROR net.journaldev.NetJournalDevApp - NET :: JournalDev :: LEVEL :: NetJournalDevApp ERROR Message ::
+10:34:47.171 [main] FATAL net.journaldev.NetJournalDevApp - NET :: JournalDev :: LEVEL :: NetJournalDevApp ERROR Message ::
